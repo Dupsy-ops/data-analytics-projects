@@ -33,7 +33,8 @@ An interactive sales analytics dashboard tracking key performance metrics includ
 3. Kitchen Supplies: $8.43M
 
 ## Dashboard Preview
-> Screenshot coming soon — download the Excel file to view the full interactive dashboard.
+![E-commerce Dashboard – Page 1](dashboard-preview.png)
+![E-commerce Dashboard – Page 2](dashboard-preview-2.png)
 
 ## Files in This Repository
 
